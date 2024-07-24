@@ -1,4 +1,4 @@
-# HackRF Wi-Fi Signal Capture Workflow
+# HackRF signal receiver Workflow
 
 This project demonstrates how to use a HackRF device to receive radio signals in the UK. 
 

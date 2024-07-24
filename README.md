@@ -1,6 +1,6 @@
 # HackRF Wi-Fi Signal Capture Workflow
 
-This project demonstrates how to use a HackRF device to capture Wi-Fi signals in the UK. The captured signals can be analyzed using tools like Wireshark. This guide is intended for educational purposes only and assumes you have the necessary permissions to capture and analyze Wi-Fi signals.
+This project demonstrates how to use a HackRF device to receive radio signals in the UK. 
 
 ## Prerequisites
 
